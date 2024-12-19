@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Radio Grotesk';
+  src: url('./fonts/PPRadioGrotesk-Regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'Radio-Grotesk-Italic';
+  src: url('./fonts/PPRadioGrotesk-RegularItalic.woff') format('woff');
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #191919;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: 'Radio Grotesk';
+  scroll-behavior: smooth;
+}
+
+@layer utilities {
+  /* Keyframes for the floating effect */
+  @keyframes float {
+    0%, 100% {
+      transform: translate(0, 0);
+    }
+    20% {
+      transform: translate(10vw, 80vh) rotate(10deg);
+    }
+    40% {
+      transform: translate(40vw, 5vh) rotate(-10deg);
+    }
+    60% {
+      transform: translate(90vw, 70vh) rotate(5deg);
+    }
+    80% {
+      transform: translate(80vw, 20vh) rotate(-5deg);
+    }
+  }
+
+  /* Utility to apply the animation */
+  .animate-float {
+    animation: float 30s ease-in-out infinite;
+  }
+}
+.bg-brand{
+  background-color: #f4e7d4;
+  opacity: 1;
+}
+.border-brand-dark{
+  border-color: #b89475;
+}
+.bg-grey{
+  background-color: #191919;
+}
+
+.custom-cursor {
+  width: 12px; /* Adjust size as needed */
+  height: 12px;
+  background-color: #f4e7d4;
+  border-radius: 50%;
+  pointer-events: none; /* Prevent cursor from interacting with elements */
+  transition: transform 0.15s ease-out;
+  z-index: 100; /* Ensure it stays above other elements */
+  mix-blend-mode: difference;
+}
+.loadingheading{
+  font-family: 'Radio-Grotesk-Italic';
+}

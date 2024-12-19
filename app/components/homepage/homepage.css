@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Radio Grotesk';
+    src: url('../../fonts/PPRadioGrotesk-Regular.woff') format('woff');
+  }
+  @font-face {
+    font-family: 'Radio-Grotesk-Italic';
+    src: url('../../fonts/PPRadioGrotesk-RegularItalic.woff') format('woff');
+  }
+
+  .title-summary{
+    font-family: 'Radio Grotesk', sans-serif;
+  }
+  .section-homepage{
+    opacity: 1; 
+    transform: none;
+  }

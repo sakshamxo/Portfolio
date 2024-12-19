@@ -1,0 +1,21 @@
+.uppercase-text{
+    text-transform: uppercase;
+}
+.navitem{
+    cursor: pointer;
+    text-align: left;
+    font-size: .875rem;
+    line-height: 1.25rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-style: italic;
+    transition-timing-function: cubic-bezier(.4,0,.2,1);
+    transition-duration: .5s;
+    color: #f4e7d4;
+}
+@media (min-width: 640px) {
+    .navitem {
+        text-align: right;
+        opacity: .7;
+    }
+}
