@@ -29,13 +29,13 @@ const Mainproject1 = () => {
             <strong>Introduction</strong>
           </h3>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
-            "I Remember" is a brand born from the unwavering resolve to honor
+            I Remember is a brand born from the unwavering resolve to honor
             the memory of Holocaust survivors and inspire action against hatred
             and genocide. Rooted in the legacy of Stanley Glogover—a Holocaust
             survivor, innovator, and advocate for human dignity—the brand
             represents a bridge between honoring the past and building a future
             filled with hope and resilience. Through the I REMEMBER AGAINST
-            GENOCIDE® bracelet collection, "I Remember" carries forward a
+            GENOCIDE® bracelet collection, I Remember carries forward a
             message of remembrance, unity, and intergenerational dialogue. The
             collection symbolizes the enduring spirit of humanity, blending
             traditional jewelry craftsmanship with cutting-edge technologies.
@@ -45,15 +45,15 @@ const Mainproject1 = () => {
             <strong>Contribution</strong>
           </h3>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
-            As part of the "I Remember" journey, I had the privilege of
+            As part of the I Remember journey, I had the privilege of
             designing and developing their website from the ground up.
             Leveraging React for the frontend and Shopify for the backend, I
             focused on crafting a seamless, high-performance digital experience.
-            The revamped website embodies the brand's ethos with an elegant and
+            The revamped website embodies the brand&#39;s ethos with an elegant and
             intuitive UI, fast-loading pages, and optimized usability. This
-            ensures that "I Remember's" powerful message and meaningful products
+            ensures that I Remember&#39;s powerful message and meaningful products
             resonate with a global audience, creating a digital platform that
-            reflects the brand's mission to inspire remembrance and foster hope
+            reflects the brand&#39;s mission to inspire remembrance and foster hope
             for a better future.
           </p>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg"></p>

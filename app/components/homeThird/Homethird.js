@@ -24,7 +24,7 @@ const Homethird = () => {
           className="space-y-6 sm:space-y-10 homethird-div"
         >
           <h4 className="text-2xl sm:text-4xl text-[#f4e7d4]">
-            <i>Hey,</i> I'm Saksham Soni. Bhopal is my hometown, and I'm 24
+            <i>Hey,</i> I&#39;m Saksham Soni. Bhopal is my hometown, and I&#39;m 24
             years old. Technology and programming caught my interest during my
             high school years, which later took form into pursuing a degree in
             Computer Applications. That was all about taking me in between the

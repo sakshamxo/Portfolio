@@ -48,7 +48,7 @@ const Mainproject1 = () => {
             the site was extremely slow, with high loading times that frustrated
             users and led to poor engagement. The outdated and cluttered user
             interface further made navigation difficult and detracted from
-            showcasing Shira’s premium product offerings. Additionally, the
+            showcasing Shira&#39;s premium product offerings. Additionally, the
             platform lacked responsiveness and user-friendliness, making it less
             effective for modern e-commerce standards.
           </p>
@@ -82,7 +82,7 @@ const Mainproject1 = () => {
             <li>
               <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg">
                 <strong>Enhanced User Experience</strong>: Designed a
-                user-friendly layout that highlights Shira's product collections
+                user-friendly layout that highlights Shira&#39;s product collections
                 effectively and aligns with the brand’s luxurious identity.
               </p>
             </li>

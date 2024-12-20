@@ -16,7 +16,7 @@ const Homedetails = () => {
           data-aos="fade-up"
           className="text-6xl sm:text-9xl font-bold text-[#f4e7d4]"
         >
-          Actions over words. Here's my journey.
+          Actions over words. Here&#39;s my journey.
         </h3>
         <section className="relative z-30 space-y-10 sm:space-y-20">
           <div data-aos="fade-up" className="space-y-4 homedetails-div">
@@ -34,7 +34,7 @@ const Homedetails = () => {
                 At Techsurvi Pvt Ltd, I developed The-Vital, a Shopify SaaS app,
                 handling user research, UX design, and UI development. Built
                 with Node.js, React.js, and SQL, I delivered a seamless,
-                efficient solution tailored to Shopify's ecosystem.
+                efficient solution tailored to Shopify&#39;s ecosystem.
               </p>
             </div>
             <div className="space-y-2">

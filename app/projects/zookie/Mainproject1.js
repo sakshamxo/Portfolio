@@ -42,7 +42,7 @@ const Mainproject1 = () => {
             <strong>Solution</strong>
           </h3>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
-            To match Zooki's innovative ethos, I revamped their website by
+            To match Zooki&#39;s innovative ethos, I revamped their website by
             enhancing the user interface and overall performance. The previous
             site struggled with slow load times and lacked a polished, engaging
             design. Using React.js, I redesigned the UI to be modern and

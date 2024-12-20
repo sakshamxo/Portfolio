@@ -30,7 +30,7 @@ const Mainproject1 = () => {
           </h3>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
             Nibble and Rest is the ultimate destination for parents seeking
-            innovative and practical solutions to transform their children's
+            innovative and practical solutions to transform their children&#39;s
             mealtime experience. Founded by Melina, a passionate mum of three,
             Nibble and Rest is home to the original Footsi® highchair footrest,
             the first-ever portable and height-adjustable footrest designed to
@@ -50,10 +50,10 @@ const Mainproject1 = () => {
             <strong>Contribution</strong>
           </h3>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
-            I built and optimized Nibble and Rest's website on Shopify, ensuring
+            I built and optimized Nibble and Rest&#39;s website on Shopify, ensuring
             a seamless shopping experience for customers. By focusing on an
             intuitive design, enhanced functionality, and improved performance,
-            I created a digital platform that reflects the brand's values and
+            I created a digital platform that reflects the brand&#39;s values and
             supports its mission of providing innovative solutions for families.
             This revamped website not only showcases the unique benefits of the
             Footsi® but also connects parents to a range of thoughtfully crafted

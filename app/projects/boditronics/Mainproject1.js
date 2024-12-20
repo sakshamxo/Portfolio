@@ -46,7 +46,7 @@ const Mainproject1 = () => {
           </h3>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
             I had the opportunity to design and develop the official Boditronics
-            website using Shopify, ensuring that the site reflects the brand's
+            website using Shopify, ensuring that the site reflects the brand&#39;s
             ethos of quality, transparency, and customer support. I focused on
             creating a seamless, intuitive, and visually appealing e-commerce
             experience while optimizing the site for speed, functionality, and

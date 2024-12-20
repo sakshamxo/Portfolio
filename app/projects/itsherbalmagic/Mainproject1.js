@@ -50,8 +50,8 @@ const Mainproject1 = () => {
             natural, organic products while providing an enhanced shopping
             experience. The website is optimized for both performance and
             customer interaction, ensuring visitors can easily explore and
-            purchase Herbal Magic's premium care products. Through this project,
-            I helped bring the company's mission of accessible and affordable
+            purchase Herbal Magic&#39;s premium care products. Through this project,
+            I helped bring the company&#39;s mission of accessible and affordable
             natural beauty care to a wider audience.
           </p>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg"></p>

@@ -43,13 +43,13 @@ const Mainproject1 = () => {
             <strong>Contribution</strong>
           </h3>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
-            To reflect the brand's values and mission, I revamped the user
+            To reflect the brand&#39;s values and mission, I revamped the user
             interface and boosted the performance of their Shopify-based
             website. The original site faced challenges with slow performance
             and an outdated design. I introduced a modern, user-friendly UI and
             implemented optimizations to ensure faster load times and seamless
             navigation, providing customers with a smooth, engaging shopping
-            experience that aligns with Derma Organics' commitment to thoughtful
+            experience that aligns with Derma Organics&#39;s commitment to thoughtful
             care.
           </p>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg"></p>

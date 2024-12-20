@@ -75,7 +75,7 @@ const Mainproject1 = () => {
             </li>
 
             <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg">
-            This project demonstrates my ability to create tailored websites that highlight a business's unique qualities while providing practical functionality and an engaging user experience.
+            This project demonstrates my ability to create tailored websites that highlight a business&#39;s unique qualities while providing practical functionality and an engaging user experience.
             </p>
           </ul>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">

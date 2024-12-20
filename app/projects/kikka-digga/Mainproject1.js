@@ -48,10 +48,10 @@ const Mainproject1 = () => {
             using Shopify, focusing on creating a user-friendly and visually
             appealing online presence. The revamped site ensures smooth
             navigation, quick load times, and a seamless shopping experience. By
-            aligning the website's design with the brand's mission of providing
+            aligning the website&#39;s design with the brand&#39;s mission of providing
             innovative gardening solutions, I helped establish a digital
             platform that effectively connects Kikka Digga® with its customers
-            while showcasing the product's unique features and benefits.
+            while showcasing the product&#39;s unique features and benefits.
           </p>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg"></p>
 

@@ -43,7 +43,7 @@ const Mainproject1 = () => {
             <strong>Problem</strong>
           </h3>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
-            No Nasties' previous website failed to reflect the brand's values
+            No Nasties previous website failed to reflect the brand&#39;s values
             and quality, with a sluggish performance, outdated user interface,
             and poor user experience. These challenges hindered customer
             engagement and failed to highlight the brand’s eco-friendly
@@ -71,7 +71,7 @@ const Mainproject1 = () => {
             <li>
               <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg">
                 <strong>UI/UX Enhancement</strong>: Designed a clean and
-                intuitive interface that aligns with the brand's eco-conscious
+                intuitive interface that aligns with the brand&#39;s eco-conscious
                 identity and enhances the shopping experience.
               </p>
             </li>

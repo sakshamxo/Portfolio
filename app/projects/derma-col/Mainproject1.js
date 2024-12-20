@@ -30,8 +30,8 @@ const Mainproject1 = () => {
           </h3>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
             Dermacol, a renowned Czech brand, has been celebrating and enhancing
-            women's beauty for over 50 years. Known for pioneering one of the
-            world's first concealer makeups in its Czech laboratory, Dermacol’s
+            women&#39;s beauty for over 50 years. Known for pioneering one of the
+            world&#39;s first concealer makeups in its Czech laboratory, Dermacol’s
             revolutionary products gained fame in Hollywood during the 1960s.
             Today, the brand remains a global symbol of flawless makeup and
             skincare, embodying its rich heritage and commitment to perfection.
@@ -41,13 +41,13 @@ const Mainproject1 = () => {
             <strong>Contribution</strong>
           </h3>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
-            To uphold Dermacol's legacy in the digital space, I redesigned their
+            To uphold Dermacol&#39;s legacy in the digital space, I redesigned their
             website with a modern UI and optimized its performance. Built using
             React.js with Shopify as the backend, the revamped website offers a
-            seamless, user-friendly experience that highlights the brand's
+            seamless, user-friendly experience that highlights the brand&#39;s
             iconic products. My enhancements ensured faster loading times,
             improved navigation, and a visually appealing design, delivering an
-            engaging platform that aligns with Dermacol's promise of timeless
+            engaging platform that aligns with Dermacol&#39;s promise of timeless
             beauty.
           </p>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg"></p>
