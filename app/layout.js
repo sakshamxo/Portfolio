@@ -1,5 +1,5 @@
 import "./globals.css";
-import { SpeedInsights } from "@vercel/speed-insights/next"
+
 
 
 export const metadata = {
@@ -25,7 +25,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <SpeedInsights/>
+     
       <body
         id="top"
         className="max-w-screen-2xl mx-auto px-4 sm:px-6 md:px-10 xl:px-16 overflow-x-hidden scroll-smooth"

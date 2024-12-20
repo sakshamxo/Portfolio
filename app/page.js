@@ -6,11 +6,13 @@ import Loading from "./components/loading";
 import { useState } from "react";
 import Mainhomepage from "./components/Mainhomepage";
 import Footer from "./components/footer/Footer";
+import { SpeedInsights } from "@vercel/speed-insights/next"
 export default function Home() {
   const [isLoading, setIsloading] = useState(true);
 
   return (
     <>
+     <SpeedInsights/>
       <Background />
       <Customcursor />
       {isLoading ? (
