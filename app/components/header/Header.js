@@ -44,7 +44,7 @@ const Header = () => {
             </Link>
           </li>
           <li className="navitem">
-            <Link href={"/"} className="group uppercase-text ">
+            <Link href={"mailto:msakshams24@gmail.com"} className="group uppercase-text ">
               {" "}
               <span className="hidden md:inline-flex invisible group-hover:visible transition duration-500 pr-2 not-italic">
                 💼
