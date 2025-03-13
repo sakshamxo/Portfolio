@@ -45,7 +45,7 @@ const Homegrids = () => {
                 {...(index >= 2 && { loading: "lazy" })} 
               />
             </div>
-            <div className="space-y-1 sm:space-y-2 mx-1">
+            <div className="space-y-1 sm:space-y-2 mx-1 text-[#F4E7D4]">
               <h5 className="font-bold text-2xl sm:text-3xl">{project.title}</h5>
               <p className="font-medium uppercase text-sm">{project.subtitle}</p>
             </div>
