@@ -1,8 +1,8 @@
 import Image from "next/image";
 import React from "react";
-import Vital from "../../../public/lataservicesmain.png";
-import VitalDash from "../../../public/lataservicessec.png";
-import Vitalcus from "../../../public/lataservicesthird.png";
+import Vital from "../../../public/lataservicesmain.webp";
+import VitalDash from "../../../public/lataservicessec.webp";
+import Vitalcus from "../../../public/lataservicesthird.webp";
 import Link from "next/link";
 const Mainproject1 = () => {
   return (

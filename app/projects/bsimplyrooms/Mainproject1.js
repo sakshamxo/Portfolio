@@ -1,8 +1,8 @@
 import Image from "next/image";
 import React from "react";
-import Vital from "../../../public/bsimplyroomsmain.png";
-import VitalDash from "../../../public/bsimplyroomscol.png";
-import Vitalcus from "../../../public/bsimplyroomspro.png";
+import Vital from "../../../public/bsimplyroomsmain.webp";
+import VitalDash from "../../../public/bsimplyroomscol.webp";
+import Vitalcus from "../../../public/bsimplyroomspro.webp";
 import Link from "next/link";
 const Mainproject1 = () => {
   return (
@@ -39,43 +39,56 @@ const Mainproject1 = () => {
             relaxation in the Cotswolds.
           </p>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg"></p>
-          
+
           <h3 className="text-3xl sm:text-4xl font-bold mt-10 sm:mt-20 mb-4 sm:mb-6 text-[#f4e7d4]">
             <strong>Contribution</strong>
           </h3>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
-          I had the privilege of designing and developing the official website for B-Simply Rooms using WordPress, focusing on creating a seamless online presence that reflects the property’s warmth and modern charm. My contributions include:
+            I had the privilege of designing and developing the official website
+            for B-Simply Rooms using WordPress, focusing on creating a seamless
+            online presence that reflects the property’s warmth and modern
+            charm. My contributions include:
           </p>
           <ul className="ml-10 py-5 list-disc space-y-5 text-[#f4e7d4]">
             <li>
               <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg">
-                <strong>Custom Website Design</strong>: Crafted an elegant and user-friendly interface that captures the essence of the property’s inviting atmosphere.
+                <strong>Custom Website Design</strong>: Crafted an elegant and
+                user-friendly interface that captures the essence of the
+                property’s inviting atmosphere.
               </p>
             </li>
             <li>
               <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg">
-                <strong>Responsive Development</strong>: Ensured the website is fully responsive, providing a smooth browsing experience across all devices.
-
+                <strong>Responsive Development</strong>: Ensured the website is
+                fully responsive, providing a smooth browsing experience across
+                all devices.
               </p>
             </li>
             <li>
               <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg">
-                <strong>WordPress Integration</strong>: Developed the site on WordPress, enabling easy content management for the client.
+                <strong>WordPress Integration</strong>: Developed the site on
+                WordPress, enabling easy content management for the client.
               </p>
             </li>
             <li>
               <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg">
-                <strong>Booking Feature Integration</strong>: Incorporated features to showcase room details, amenities, and a streamlined booking process for enhanced user convenience.
+                <strong>Booking Feature Integration</strong>: Incorporated
+                features to showcase room details, amenities, and a streamlined
+                booking process for enhanced user convenience.
               </p>
             </li>
             <li>
               <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg">
-                <strong>SEO Optimization</strong>: Optimized the website to improve visibility in search engine results and attract more guests.
+                <strong>SEO Optimization</strong>: Optimized the website to
+                improve visibility in search engine results and attract more
+                guests.
               </p>
             </li>
 
             <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg">
-            This project demonstrates my ability to create tailored websites that highlight a business&#39;s unique qualities while providing practical functionality and an engaging user experience.
+              This project demonstrates my ability to create tailored websites
+              that highlight a business&#39;s unique qualities while providing
+              practical functionality and an engaging user experience.
             </p>
           </ul>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
@@ -106,7 +119,6 @@ const Mainproject1 = () => {
           <div className="relative flex w-full h-auto my-4 sm:my-10 rounded-xl bg-grey-light dark:bg-pop-dark overflow-hidden">
             <Image alt="project" src={Vitalcus} />
           </div>
-         
         </section>
         <section>
           <h4 className="text-2xl sm:text-4xl mt-20">

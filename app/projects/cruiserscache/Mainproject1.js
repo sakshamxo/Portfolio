@@ -1,9 +1,9 @@
 import Image from "next/image";
 import React from "react";
-import Vital from "../../../public/vitaljpg.jpg";
-import VitalDash from "../../../public/vitaldashboard.jpg";
-import Vitalcus from "../../../public/vitalcustomer.png";
-import Vitaldeal from "../../../public/vitaldeal.jpg";
+import Vital from "../../../public/vitaljpg.webp";
+import VitalDash from "../../../public/vitaldashboard.webp";
+import Vitalcus from "../../../public/vitalcustomer.webp";
+import Vitaldeal from "../../../public/vitaldeal.webp";
 import Link from "next/link";
 const Mainproject1 = () => {
   return (

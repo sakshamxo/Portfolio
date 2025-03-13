@@ -1,8 +1,8 @@
 import Image from "next/image";
 import React from "react";
-import Vital from "../../../public/shilajetkaufenmain.png";
-import VitalDash from "../../../public/shilajetkaufencol.png";
-import Vitalcus from "../../../public/shilajetkaufenprod.png";
+import Vital from "../../../public/shilajetkaufenmain.webp";
+import VitalDash from "../../../public/shilajetkaufencol.webp";
+import Vitalcus from "../../../public/shilajetkaufenprod.webp";
 import Link from "next/link";
 const Mainproject1 = () => {
   return (
@@ -17,7 +17,7 @@ const Mainproject1 = () => {
               React Website
             </h6>
             <h1 className="font-bold text-4xl sm:text-6xl text-[#f4e7d4]">
-              Shilajit Kaufen 
+              Shilajit Kaufen
             </h1>
           </div>
           <div className="relative w-full h-116 md:h-128 bg-grey-light dark:bg-pop-dark rounded-xl overflow-hidden">
@@ -39,42 +39,57 @@ const Mainproject1 = () => {
             of its origins.
           </p>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg"></p>
-         
+
           <h3 className="text-3xl sm:text-4xl font-bold mt-10 sm:mt-20 mb-4 sm:mb-6 text-[#f4e7d4]">
             <strong>Contribution</strong>
           </h3>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
-          I was responsible for designing and developing the Shilajit Kaufen website, utilizing React for the frontend and Shopify as the backend. My contributions include:
+            I was responsible for designing and developing the Shilajit Kaufen
+            website, utilizing React for the frontend and Shopify as the
+            backend. My contributions include:
           </p>
           <ul className="ml-10 py-5 list-disc space-y-5 text-[#f4e7d4]">
             <li>
               <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg">
-                <strong>Custom Web Design</strong>: Created a visually appealing and intuitive user interface that reflects the brand’s commitment to quality and natural vitality.
+                <strong>Custom Web Design</strong>: Created a visually appealing
+                and intuitive user interface that reflects the brand’s
+                commitment to quality and natural vitality.
               </p>
             </li>
             <li>
               <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg">
-                <strong>Frontend Development</strong>: Leveraged React to build a responsive and dynamic website, ensuring a seamless user experience across all devices.
+                <strong>Frontend Development</strong>: Leveraged React to build
+                a responsive and dynamic website, ensuring a seamless user
+                experience across all devices.
               </p>
             </li>
             <li>
               <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg">
-                <strong>Shopify Integration</strong>: Implemented Shopify as the backend to streamline product management, order processing, and inventory tracking.
+                <strong>Shopify Integration</strong>: Implemented Shopify as the
+                backend to streamline product management, order processing, and
+                inventory tracking.
               </p>
             </li>
             <li>
               <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg">
-                <strong>Brand Representation</strong>: Strategically designed the layout and content to highlight the brand’s heritage, values, and product quality.
+                <strong>Brand Representation</strong>: Strategically designed
+                the layout and content to highlight the brand’s heritage,
+                values, and product quality.
               </p>
             </li>
             <li>
               <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg">
-                <strong>Performance Optimization</strong>: Ensured fast loading speeds and smooth navigation to enhance customer satisfaction and engagement.
+                <strong>Performance Optimization</strong>: Ensured fast loading
+                speeds and smooth navigation to enhance customer satisfaction
+                and engagement.
               </p>
             </li>
 
             <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg">
-            This project highlights my expertise in merging robust e-commerce solutions with modern web technologies to deliver a platform that aligns with the brand’s vision and engages its audience effectively.
+              This project highlights my expertise in merging robust e-commerce
+              solutions with modern web technologies to deliver a platform that
+              aligns with the brand’s vision and engages its audience
+              effectively.
             </p>
           </ul>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
@@ -105,7 +120,6 @@ const Mainproject1 = () => {
           <div className="relative flex w-full h-auto my-4 sm:my-10 rounded-xl bg-grey-light dark:bg-pop-dark overflow-hidden">
             <Image alt="project" src={Vitalcus} />
           </div>
-          
         </section>
         <section>
           <h4 className="text-2xl sm:text-4xl mt-20">

@@ -1,9 +1,11 @@
 import React, { useEffect } from "react";
 import "./Homethird.css";
 import Image from "next/image";
-import ImagePort from "../../../public/portfolio.jpg";
+
 import AOS from "aos";
 import "aos/dist/aos.css";
+import ThreeModel from "./ThreeBackground";
+
 
 const Homethird = () => {
   useEffect(() => {
@@ -56,9 +58,9 @@ const Homethird = () => {
         </div>
         <div
           data-aos="fade-up"
-          className="relative bg-grey-light dark:bg-pop-dark rounded-xl w-full h-96 sm:h-124 md:h-128 overflow-hidden"
+          className="relative bg-grey-light dark:bg-pop-dark rounded-xl w-full h-[700px]"
         >
-          <Image
+          {/* <Image
             className="rounded-xl object-center object-cover"
             loading="lazy"
             style={{
@@ -70,7 +72,8 @@ const Homethird = () => {
             }}
             alt="port"
             src={ImagePort}
-          />
+          /> */}
+           <ThreeModel />
         </div>
       </div>
     </section>

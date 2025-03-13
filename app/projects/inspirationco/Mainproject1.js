@@ -1,8 +1,8 @@
 import Image from "next/image";
 import React from "react";
-import main from "../../../public/inspirationcohome.png";
-import col from "../../../public/inspirationcocol.png";
-import prod from "../../../public/inspirationcoprod.png";
+import main from "../../../public/inspirationcohome.webp";
+import col from "../../../public/inspirationcocol.webp";
+import prod from "../../../public/inspirationcoprod.webp";
 import Link from "next/link";
 const Mainproject1 = () => {
   return (

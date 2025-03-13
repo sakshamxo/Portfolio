@@ -1,8 +1,8 @@
 import Image from "next/image";
 import React from "react";
-import main from "../../../public/nonastieshome.png";
-import col from "../../../public/nonastiescol.png";
-import prod from "../../../public/noonastioespro.png";
+import main from "../../../public/nonastieshome.webp";
+import col from "../../../public/nonastiescol.webp";
+import prod from "../../../public/noonastioespro.webp";
 
 import Link from "next/link";
 const Mainproject1 = () => {
@@ -71,8 +71,8 @@ const Mainproject1 = () => {
             <li>
               <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg">
                 <strong>UI/UX Enhancement</strong>: Designed a clean and
-                intuitive interface that aligns with the brand&#39;s eco-conscious
-                identity and enhances the shopping experience.
+                intuitive interface that aligns with the brand&#39;s
+                eco-conscious identity and enhances the shopping experience.
               </p>
             </li>
             <li>
@@ -118,7 +118,6 @@ const Mainproject1 = () => {
           <div className="relative flex w-full h-auto my-4 sm:my-10 rounded-xl bg-grey-light dark:bg-pop-dark overflow-hidden">
             <Image alt="project" src={prod} />
           </div>
-        
         </section>
         <section>
           <h4 className="text-2xl sm:text-4xl mt-20">

@@ -1,8 +1,8 @@
 import Image from "next/image";
 import React from "react";
-import Vital from "../../../public/urbanhuntermain.png";
-import VitalDash from "../../../public/urbanhuntersec.png";
-import Vitalcus from "../../../public/urbanhunterthird.png";
+import Vital from "../../../public/urbanhuntermain.webp";
+import VitalDash from "../../../public/urbanhuntersec.webp";
+import Vitalcus from "../../../public/urbanhunterthird.webp";
 import Link from "next/link";
 const Mainproject1 = () => {
   return (

@@ -1,8 +1,8 @@
 import Image from "next/image";
 import React from "react";
-import Vital from "../../../public/aarshavedamain.png";
-import VitalDash from "../../../public/aarshavedacol.png";
-import Vitalcus from "../../../public/aarshavedaprod.png";
+import Vital from "../../../public/aarshavedamain.webp";
+import VitalDash from "../../../public/aarshavedacol.webp";
+import Vitalcus from "../../../public/aarshavedaprod.webp";
 import Link from "next/link";
 const Mainproject1 = () => {
   return (

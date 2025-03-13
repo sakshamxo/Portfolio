@@ -1,8 +1,8 @@
 import Image from "next/image";
 import React from "react";
-import orkiahome from "../../../public/orkiahome.png";
-import orkiacol from "../../../public/orkiacol.png";
-import orkiapro from "../../../public/orkiapro.png";
+import orkiahome from "../../../public/orkiahome.webp";
+import orkiacol from "../../../public/orkiacol.webp";
+import orkiapro from "../../../public/orkiapro.webp";
 import Link from "next/link";
 const Mainproject1 = () => {
   return (

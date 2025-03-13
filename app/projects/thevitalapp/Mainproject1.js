@@ -1,9 +1,9 @@
 import Image from "next/image";
 import React from "react";
-import Vital from "../../../public/vitaljpg.jpg";
-import VitalDash from "../../../public/vitaldashboard.jpg";
-import Vitalcus from "../../../public/vitalcustomer.png";
-import Vitaldeal from "../../../public/vitaldeal.jpg";
+import Vital from "../../../public/vitaljpg.webp";
+import VitalDash from "../../../public/vitaldashboard.webp";
+import Vitalcus from "../../../public/vitalcustomer.webp";
+import Vitaldeal from "../../../public/vitaldeal.webp";
 import Link from "next/link";
 const Mainproject1 = () => {
   return (
@@ -18,7 +18,7 @@ const Mainproject1 = () => {
               Saas Shopify Application
             </h6>
             <h1 className="font-bold text-4xl sm:text-6xl text-[#f4e7d4]">
-              The Vital
+            Retenzy ( The Vital ) 
             </h1>
           </div>
           <div className="relative w-full h-116 md:h-128 bg-grey-light dark:bg-pop-dark rounded-xl overflow-hidden">

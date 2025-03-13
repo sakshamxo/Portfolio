@@ -1,8 +1,8 @@
 import Image from "next/image";
 import React from "react";
-import lokhome from "../../../public/loktantrahome.png";
-import lokvideo from "../../../public/loktantravideo.png";
-import loknews from "../../../public/loktantranews.png";
+import lokhome from "../../../public/loktantrahome.webp";
+import lokvideo from "../../../public/loktantravideo.webp";
+import loknews from "../../../public/loktantranews.webp";
 
 import Link from "next/link";
 const Mainproject1 = () => {
@@ -15,10 +15,10 @@ const Mainproject1 = () => {
         <section className="space-y-6 sm:space-y-10">
           <div className="space-y-3 sm:space-y-4">
             <h6 className="text-base sm:text-xl font-medium text-[#f4e7d4]">
-             Next.js Website
+              Next.js Website
             </h6>
             <h1 className="font-bold text-4xl sm:text-6xl text-[#f4e7d4]">
-             Loktantra Udghosh
+              Loktantra Udghosh
             </h1>
           </div>
           <div className="relative w-full h-116 md:h-128 bg-grey-light dark:bg-pop-dark rounded-xl overflow-hidden">
@@ -119,7 +119,6 @@ const Mainproject1 = () => {
           <div className="relative flex w-full h-auto my-4 sm:my-10 rounded-xl bg-grey-light dark:bg-pop-dark overflow-hidden">
             <Image alt="project" src={loknews} />
           </div>
-          
         </section>
         <section>
           <h4 className="text-2xl sm:text-4xl mt-20">

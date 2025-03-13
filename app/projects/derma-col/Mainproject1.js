@@ -1,8 +1,8 @@
 import Image from "next/image";
 import React from "react";
-import main from "../../../public/dermacolhome.png";
-import col from "../../../public/dermacolcol.png";
-import prod from "../../../public/dermacolprod.png";
+import main from "../../../public/dermacolhome.webp";
+import col from "../../../public/dermacolcol.webp";
+import prod from "../../../public/dermacolprod.webp";
 import Link from "next/link";
 const Mainproject1 = () => {
   return (
@@ -30,28 +30,29 @@ const Mainproject1 = () => {
           </h3>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
             Dermacol, a renowned Czech brand, has been celebrating and enhancing
-            women&#39;s beauty for over 50 years. Known for pioneering one of the
-            world&#39;s first concealer makeups in its Czech laboratory, Dermacol’s
-            revolutionary products gained fame in Hollywood during the 1960s.
-            Today, the brand remains a global symbol of flawless makeup and
-            skincare, embodying its rich heritage and commitment to perfection.
+            women&#39;s beauty for over 50 years. Known for pioneering one of
+            the world&#39;s first concealer makeups in its Czech laboratory,
+            Dermacol’s revolutionary products gained fame in Hollywood during
+            the 1960s. Today, the brand remains a global symbol of flawless
+            makeup and skincare, embodying its rich heritage and commitment to
+            perfection.
           </p>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg"></p>
           <h3 className="text-3xl sm:text-4xl font-bold mt-10 sm:mt-20 mb-4 sm:mb-6 text-[#f4e7d4]">
             <strong>Contribution</strong>
           </h3>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
-            To uphold Dermacol&#39;s legacy in the digital space, I redesigned their
-            website with a modern UI and optimized its performance. Built using
-            React.js with Shopify as the backend, the revamped website offers a
-            seamless, user-friendly experience that highlights the brand&#39;s
-            iconic products. My enhancements ensured faster loading times,
-            improved navigation, and a visually appealing design, delivering an
-            engaging platform that aligns with Dermacol&#39;s promise of timeless
-            beauty.
+            To uphold Dermacol&#39;s legacy in the digital space, I redesigned
+            their website with a modern UI and optimized its performance. Built
+            using React.js with Shopify as the backend, the revamped website
+            offers a seamless, user-friendly experience that highlights the
+            brand&#39;s iconic products. My enhancements ensured faster loading
+            times, improved navigation, and a visually appealing design,
+            delivering an engaging platform that aligns with Dermacol&#39;s
+            promise of timeless beauty.
           </p>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg"></p>
-        
+
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
             Technologies and tools used include React and Shopify.
           </p>
@@ -80,7 +81,6 @@ const Mainproject1 = () => {
           <div className="relative flex w-full h-auto my-4 sm:my-10 rounded-xl bg-grey-light dark:bg-pop-dark overflow-hidden">
             <Image alt="project" src={prod} />
           </div>
-         
         </section>
         <section>
           <h4 className="text-2xl sm:text-4xl mt-20">

@@ -1,8 +1,8 @@
 import Image from "next/image";
 import React from "react";
-import Vital from "../../../public/nibbleandrestmain.png";
-import VitalDash from "../../../public/nibbleandrestcol.png";
-import Vitalcus from "../../../public/nibbleandrestpro.png";
+import Vital from "../../../public/nibbleandrestmain.webp";
+import VitalDash from "../../../public/nibbleandrestcol.webp";
+import Vitalcus from "../../../public/nibbleandrestpro.webp";
 import Link from "next/link";
 const Mainproject1 = () => {
   return (
@@ -50,17 +50,18 @@ const Mainproject1 = () => {
             <strong>Contribution</strong>
           </h3>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
-            I built and optimized Nibble and Rest&#39;s website on Shopify, ensuring
-            a seamless shopping experience for customers. By focusing on an
-            intuitive design, enhanced functionality, and improved performance,
-            I created a digital platform that reflects the brand&#39;s values and
-            supports its mission of providing innovative solutions for families.
-            This revamped website not only showcases the unique benefits of the
-            Footsi® but also connects parents to a range of thoughtfully crafted
-            products designed to make parenting a little easier.
+            I built and optimized Nibble and Rest&#39;s website on Shopify,
+            ensuring a seamless shopping experience for customers. By focusing
+            on an intuitive design, enhanced functionality, and improved
+            performance, I created a digital platform that reflects the
+            brand&#39;s values and supports its mission of providing innovative
+            solutions for families. This revamped website not only showcases the
+            unique benefits of the Footsi® but also connects parents to a range
+            of thoughtfully crafted products designed to make parenting a little
+            easier.
           </p>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg"></p>
-        
+
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
             Technologies and tools used include Shopify.
           </p>
@@ -89,7 +90,6 @@ const Mainproject1 = () => {
           <div className="relative flex w-full h-auto my-4 sm:my-10 rounded-xl bg-grey-light dark:bg-pop-dark overflow-hidden">
             <Image alt="project" src={Vitalcus} />
           </div>
-         
         </section>
         <section>
           <h4 className="text-2xl sm:text-4xl mt-20">

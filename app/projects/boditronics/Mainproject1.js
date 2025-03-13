@@ -1,8 +1,8 @@
 import Image from "next/image";
 import React from "react";
-import Vital from "../../../public/boditronicsmain.png";
-import VitalDash from "../../../public/boditronicscol.png";
-import Vitalcus from "../../../public/boditronicspro.png";
+import Vital from "../../../public/boditronicsmain.webp";
+import VitalDash from "../../../public/boditronicscol.webp";
+import Vitalcus from "../../../public/boditronicspro.webp";
 import Link from "next/link";
 const Mainproject1 = () => {
   return (
@@ -46,13 +46,13 @@ const Mainproject1 = () => {
           </h3>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
             I had the opportunity to design and develop the official Boditronics
-            website using Shopify, ensuring that the site reflects the brand&#39;s
-            ethos of quality, transparency, and customer support. I focused on
-            creating a seamless, intuitive, and visually appealing e-commerce
-            experience while optimizing the site for speed, functionality, and
-            SEO. Through this project, I aimed to deliver a platform that not
-            only represents Boditronics’ values but also provides an easy and
-            enjoyable experience for their customers.
+            website using Shopify, ensuring that the site reflects the
+            brand&#39;s ethos of quality, transparency, and customer support. I
+            focused on creating a seamless, intuitive, and visually appealing
+            e-commerce experience while optimizing the site for speed,
+            functionality, and SEO. Through this project, I aimed to deliver a
+            platform that not only represents Boditronics’ values but also
+            provides an easy and enjoyable experience for their customers.
           </p>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg"></p>
 

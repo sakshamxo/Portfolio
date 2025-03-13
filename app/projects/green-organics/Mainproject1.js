@@ -1,8 +1,8 @@
 import Image from "next/image";
 import React from "react";
-import Vital from "../../../public/greenorganicsmain.png";
-import VitalDash from "../../../public/greenorganicscol.png";
-import Vitalcus from "../../../public/greenorganicspro.png";
+import Vital from "../../../public/greenorganicsmain.webp";
+import VitalDash from "../../../public/greenorganicscol.webp";
+import Vitalcus from "../../../public/greenorganicspro.webp";
 import Link from "next/link";
 const Mainproject1 = () => {
   return (

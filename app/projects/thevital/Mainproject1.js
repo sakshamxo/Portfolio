@@ -1,8 +1,8 @@
 import Image from "next/image";
 import React from "react";
-import Vital from "../../../public/vitalmain.png";
-import VitalDash from "../../../public/vitalsec.png";
-import Vitalcus from "../../../public/vitalthird.png";
+import Vital from "../../../public/vitalmain.webp";
+import VitalDash from "../../../public/vitalsec.webp";
+import Vitalcus from "../../../public/vitalthird.webp";
 import Link from "next/link";
 const Mainproject1 = () => {
   return (
@@ -81,7 +81,6 @@ const Mainproject1 = () => {
           <div className="relative flex w-full h-auto my-4 sm:my-10 rounded-xl bg-grey-light dark:bg-pop-dark overflow-hidden">
             <Image alt="project" src={Vitalcus} />
           </div>
-         
         </section>
         <section>
           <h4 className="text-2xl sm:text-4xl mt-20">

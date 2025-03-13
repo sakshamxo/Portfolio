@@ -1,8 +1,8 @@
 import Image from "next/image";
 import React from "react";
-import Vital from "../../../public/kikkadiggamain.png";
-import VitalDash from "../../../public/kikkadiggasec.png";
-import Vitalcus from "../../../public/kikkadiggapro.png";
+import Vital from "../../../public/kikkadiggamain.webp";
+import VitalDash from "../../../public/kikkadiggasec.webp";
+import Vitalcus from "../../../public/kikkadiggapro.webp";
 
 import Link from "next/link";
 const Mainproject1 = () => {
@@ -48,10 +48,11 @@ const Mainproject1 = () => {
             using Shopify, focusing on creating a user-friendly and visually
             appealing online presence. The revamped site ensures smooth
             navigation, quick load times, and a seamless shopping experience. By
-            aligning the website&#39;s design with the brand&#39;s mission of providing
-            innovative gardening solutions, I helped establish a digital
-            platform that effectively connects Kikka Digga® with its customers
-            while showcasing the product&#39;s unique features and benefits.
+            aligning the website&#39;s design with the brand&#39;s mission of
+            providing innovative gardening solutions, I helped establish a
+            digital platform that effectively connects Kikka Digga® with its
+            customers while showcasing the product&#39;s unique features and
+            benefits.
           </p>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg"></p>
 
@@ -83,7 +84,6 @@ const Mainproject1 = () => {
           <div className="relative flex w-full h-auto my-4 sm:my-10 rounded-xl bg-grey-light dark:bg-pop-dark overflow-hidden">
             <Image alt="project" src={Vitalcus} />
           </div>
-         
         </section>
         <section>
           <h4 className="text-2xl sm:text-4xl mt-20">

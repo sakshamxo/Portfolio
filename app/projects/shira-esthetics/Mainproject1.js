@@ -1,8 +1,8 @@
 import Image from "next/image";
 import React from "react";
-import shira from "../../../public/shirapage.png";
-import shira2 from "../../../public/shirapage2.png";
-import shira3 from "../../../public/shirapage3.png";
+import shira from "../../../public/shirapage.webp";
+import shira2 from "../../../public/shirapage2.webp";
+import shira3 from "../../../public/shirapage3.webp";
 import Link from "next/link";
 const Mainproject1 = () => {
   return (
@@ -56,7 +56,7 @@ const Mainproject1 = () => {
           <h3 className="text-3xl sm:text-4xl font-bold mt-10 sm:mt-20 mb-4 sm:mb-6 text-[#f4e7d4]">
             <strong>Solution</strong>
           </h3>
-       
+
           <ul className="ml-10 py-5 list-disc space-y-5 text-[#f4e7d4]">
             <li>
               <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg">
@@ -82,8 +82,9 @@ const Mainproject1 = () => {
             <li>
               <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg">
                 <strong>Enhanced User Experience</strong>: Designed a
-                user-friendly layout that highlights Shira&#39;s product collections
-                effectively and aligns with the brand’s luxurious identity.
+                user-friendly layout that highlights Shira&#39;s product
+                collections effectively and aligns with the brand’s luxurious
+                identity.
               </p>
             </li>
 
@@ -123,7 +124,6 @@ const Mainproject1 = () => {
           <div className="relative flex w-full h-auto my-4 sm:my-10 rounded-xl bg-grey-light dark:bg-pop-dark overflow-hidden">
             <Image alt="project" src={shira3} />
           </div>
-          
         </section>
         <section>
           <h4 className="text-2xl sm:text-4xl mt-20">
