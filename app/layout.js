@@ -25,7 +25,9 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-     
+     <head>
+     <meta name="theme-color" content="#191919" />
+     </head>
       <body
         id="top"
         className="max-w-screen-2xl mx-auto px-4 sm:px-6 md:px-10 xl:px-16 overflow-x-hidden scroll-smooth"
