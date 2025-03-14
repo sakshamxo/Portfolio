@@ -11,7 +11,7 @@ const Wave = ({ mousePosition }) => {
   useFrame(({ clock }) => {
     const time = clock.getElapsedTime();
     meshRef.current.rotation.z = time * 0.1;
-    meshRef.current.rotation.x = mousePosition.y * 0.1; 
+    meshRef.current.rotation.x = mousePosition.y * 0.1;
     meshRef.current.rotation.y = mousePosition.x * 0.1;
   });
 
@@ -37,12 +37,12 @@ const Particles = ({ mousePosition }) => {
     particleRef.current.rotation.y = mousePosition.x * 0.05;
   });
 
-  const positions = new Float32Array(5000);
+  const positions = new Float32Array(1500 * 3); // 5000 particles * 3 (x, y, z)
 
   for (let i = 0; i < positions.length; i++) {
     positions[i] = (Math.random() - 0.5) * 20;
   }
-  
+
   return (
     <points ref={particleRef}>
       <bufferGeometry attach="geometry">
