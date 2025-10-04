@@ -2,11 +2,11 @@
 import React, { useEffect, useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
+import mindtraqk from "../../../public/mintraqk.webp";
 import inspire from "../../../public/inspirationcomock.webp";
 import vital from "../../../public/thevitalappmock.webp";
 import loktantra from "../../../public/loktantramock.webp";
 import gcmerch from "../../../public/gcmerchmock.webp";
-import orkia from "../../../public/orkiamock.webp";
 import nonasties from "../../../public/nonastiesmock.webp";
 import AOS from "aos";
 import "aos/dist/aos.css";
@@ -22,6 +22,13 @@ const Homegrids = () => {
   if (!mounted) return null; // Prevents hydration errors
 
   const projects = [
+   
+   {
+      href: "/projects/mindtraqk",
+      src: mindtraqk,
+      title: "MindTraqk",
+      subtitle: "AI Workforce Intelligence Platform (SaaS Application)",
+    },
     {
       href: "/projects/thevitalapp",
       src: vital,
@@ -39,12 +46,6 @@ const Homegrids = () => {
       src: loktantra,
       title: "Loktantra Udgosh",
       subtitle: "Next.js Website",
-    },
-    {
-      href: "/projects/orkia-flavors",
-      src: orkia,
-      title: "Orkia Flavours",
-      subtitle: "Shopify Website",
     },
     {
       href: "/projects/gcmerch",

@@ -13,19 +13,21 @@ const Homepage = () => {
       <div>
         <h1
           data-aos="fade-up"
-          className="title-summary text-3xl sm:text-5xl text-[#f4e7d4]"
-        >
+          className="title-summary text-3xl sm:text-5xl text-[#f4e7d4]">
           {" "}
-          <i>Hello,</i> I am Saksham, a software developer skilled in
-          developing on React.js, Next.js, Node.js, WordPress, Shopify, and the
-          MERN stack. In the last 1.5 years, I have focused on creating seamless
-          web applications and dynamic user interfaces, building scalable MERN
-          stack solutions, optimizing backend systems, and developing robust
-          WordPress and Shopify websites. I craft digital experiences ranging
-          from responsive websites to versatile e-commerce platforms. My
-          commitment is to meld function with form and use the latest
-          technologies in whatever platform I choose, pushing myself at each
-          step in developing the best solution.{" "}
+          <i>Hello,</i> I am Saksham, a Software Engineer & Tech Lead with 2+
+          years of experience building scalable, AI-powered, and full-stack web
+          applications. I specialize in React.js, Next.js, Node.js, and the MERN
+          stack, crafting seamless user interfaces, dynamic dashboards, and
+          robust backend systems. Currently, I lead the development of MindTraqk
+          at Muno AI Pvt. Ltd., an AI-driven workforce intelligence platform -
+          building everything from architecture to frontend, backend, and AI
+          integrations, while mentoring a team of developers to deliver
+          production-ready solutions.I thrive on transforming complex ideas into
+          impactful digital experiences that blend functionality with design.
+          Whether it’s optimizing backend workflows, building interactive UIs,
+          or deploying scalable solutions, my goal is to create software that
+          drives results and delights users.{" "}
         </h1>
       </div>
     </section>

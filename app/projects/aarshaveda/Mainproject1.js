@@ -97,6 +97,7 @@ const Mainproject1 = () => {
               <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
                 <a
                   href="https://aarshaveda.com/"
+                   target="_blank"
                   rel="noreferrer noopener"
                   className="text-brand dark:text-azure transition duration-500 text-base sm:text-xl font-medium mb-4 underline underline-offset-8 opacity-70 hover:opacity-100"
                 >

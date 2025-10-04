@@ -1,6 +1,7 @@
 .homethird-div{
     opacity: 1; 
     transform: none;
+
 }
 .glass-effect {
     animation: floatText 5s ease-in-out infinite;

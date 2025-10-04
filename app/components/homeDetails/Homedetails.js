@@ -14,8 +14,7 @@ const Homedetails = () => {
       <div className="space-y-10 sm:space-y-20 homedetails-div">
         <h3
           data-aos="fade-up"
-          className="text-6xl sm:text-9xl font-bold text-[#f4e7d4]"
-        >
+          className="text-6xl sm:text-9xl font-bold text-[#f4e7d4]">
           Actions over words. Here&#39;s my journey.
         </h3>
         <section className="relative z-30 space-y-10 sm:space-y-20">
@@ -23,6 +22,25 @@ const Homedetails = () => {
             <h4 className="text-sm sm:text-base font-medium uppercase text-[#f4e7d4]">
               Experience
             </h4>
+            <div className="space-y-2">
+              <h5 className="text-xl sm:text-3xl text-[#f4e7d4] font-bold">
+                Software Engineer & Technical Lead
+              </h5>
+              <p className="text-sm sm:text-base text-[#f4e7d4] italic font-medium">
+                Muno AI Pvt. Ltd., from April 2025 to Till Date
+              </p>
+              <p className="text-sm sm:text-base text-[#f4e7d4] font-medium">
+                At Muno AI Pvt. Ltd., I led and developed MindTraqk, an
+                AI-powered workforce intelligence SaaS platform. From concept to
+                live deployment, I built the complete system architecture,
+                frontend, and backend using React, Node.js, TypeScript, and
+                MongoDB, integrating OpenAI and OpenSource LLM for deep work
+                detection, burnout analysis, and productivity insights. I
+                directed a team of developers and delivered a scalable,
+                production-ready AI platform that empowers organizations to
+                optimize performance and reduce burnout.
+              </p>
+            </div>
             <div className="space-y-2">
               <h5 className="text-xl sm:text-3xl text-[#f4e7d4] font-bold">
                 Software Consultant
@@ -168,8 +186,7 @@ const Homedetails = () => {
             <Link
               className="ml-1 sm:ml-2 cursor-pointer sm:opacity-70 sm:hover:opacity-100 transition duration-500"
               href={"/resume.pdf"}
-              download={"resume.pdf"}
-            >
+              download={"resume.pdf"}>
               curriculum
             </Link>
           </u>

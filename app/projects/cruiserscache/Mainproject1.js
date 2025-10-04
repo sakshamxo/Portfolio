@@ -123,6 +123,7 @@ const Mainproject1 = () => {
                 <a
                   href="https://app.thevitalapps.com/"
                   rel="noreferrer noopener"
+                   target="_blank"
                   className="text-brand dark:text-azure transition duration-500 text-base sm:text-xl font-medium mb-4 underline underline-offset-8 opacity-70 hover:opacity-100"
                 >
                   The Vital app

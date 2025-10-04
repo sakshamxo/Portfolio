@@ -30,14 +30,14 @@ const Mainproject1 = () => {
             <strong>Introduction</strong>
           </h3>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
-            The Vital is a powerful Shopify app designed to boost sales and
+            Retenzy is a powerful Shopify app designed to boost sales and
             customer loyalty through a comprehensive set of features, including
             loyalty and rewards programs, product reviews, customer dashboards,
             exclusive deals, and more. Built using React, Node.js, Express, SQL,
-            and Sequelize, The Vital offers a seamless and scalable solution for
+            and Sequelize, Retenzy offers a seamless and scalable solution for
             merchants aiming to enhance customer engagement and retention. With
             fully customizable loyalty programs, automated review collection,
-            and personalized user dashboards, The Vital empowers businesses to
+            and personalized user dashboards, Retenzy empowers businesses to
             create meaningful customer interactions at every stage of the
             journey. Its ease of setup, no-code configuration, and expert
             support make it an essential tool for driving Customer Lifetime
@@ -48,7 +48,7 @@ const Mainproject1 = () => {
             <strong>Problem</strong>
           </h3>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
-            The initial version of The Vital faced critical challenges that
+            The initial version of Retenzy faced critical challenges that
             hindered its effectiveness and user experience. The user interface
             was slow and poorly designed, resulting in an unresponsive and
             cluttered experience. The customer dashboard lacked functionality
@@ -64,7 +64,7 @@ const Mainproject1 = () => {
             <strong>Contribution</strong>
           </h3>
           <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
-            My Contribution to <strong>The Vital App</strong>
+            My Contribution to <strong>Retenzy App</strong>
           </p>
           <ul className="ml-10 py-5 list-disc space-y-5 text-[#f4e7d4]">
             <li>
@@ -103,7 +103,7 @@ const Mainproject1 = () => {
             </li>
 
             <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg">
-              By addressing these challenges, I helped transform The Vital into
+              By addressing these challenges, I helped transform Retenzy into
               a highly efficient, user-friendly, and feature-rich solution,
               empowering Shopify merchants to enhance customer retention and
               drive business growth.
@@ -121,11 +121,12 @@ const Mainproject1 = () => {
             <li>
               <p className="text-base sm:text-xl font-medium mb-4 md:mb-6 max-w-screen-lg text-[#f4e7d4]">
                 <a
-                  href="https://app.thevitalapps.com/"
+                  href="https://app.retenzy.com/"
                   rel="noreferrer noopener"
+                   target="_blank"
                   className="text-brand dark:text-azure transition duration-500 text-base sm:text-xl font-medium mb-4 underline underline-offset-8 opacity-70 hover:opacity-100"
                 >
-                  The Vital app
+                  Retenzy ( The Vital )
                 </a>
               </p>
             </li>

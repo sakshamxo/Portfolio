@@ -79,8 +79,8 @@ const ThreeModel = () => {
   };
 
   return (
-    <div onMouseMove={handleMouseMove} className="w-full h-screen rounded-xl">
-      <Canvas camera={{ position: [0, 0, 5], fov: 45 }}>
+    <div onMouseMove={handleMouseMove} className="w-full h-screen overflow-hidden" style={{ borderRadius: "15px" }}>
+      <Canvas camera={{ position: [0, 0, 5], fov: 45 }} style={{ borderRadius: "15px" }}>
         <ambientLight intensity={0.3} />
         <pointLight position={[10, 10, 10]} />
         <Wave mousePosition={mousePosition} />
