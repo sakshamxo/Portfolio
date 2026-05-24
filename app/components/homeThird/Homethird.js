@@ -30,7 +30,7 @@ const Homethird = () => {
             and the web.
           </h4>
           <h4 className="text-2xl sm:text-4xl text-[#f4e7d4]">
-            I began my career as a software developer at Mushroom World
+            I began my career as a software developer intern at Mushroom World
             Futuretech as soon as I graduated, where I developed a number of
             client-based websites and the HR management app BizMetric. My desire
             to create user-centric software solutions was enhanced by this
@@ -48,13 +48,22 @@ const Homethird = () => {
             digital experiences.
           </h4>
           <h4 className="text-2xl sm:text-4xl text-[#f4e7d4]">
-            As a Software Engineer & Tech Lead at Muno AI Pvt. Ltd., I am
-            currently the leader of developing MindTraqk, a workforce
-            intelligence platform driven by AI. In order to deliver a scalable,
-            production-ready SaaS platform, I lead a team of developers, created
-            the frontend and backend, integrated AI models for deep work
-            detection and productivity insights, and designed the entire system
-            architecture.
+            At Muno AI, I worked as a Software Engineer Lead and currently
+            continue as a Consultant, leading the development of MindTraqk, an
+            AI-powered workforce intelligence platform. I designed and scaled
+            the platform using React.js, Node.js, TypeScript, MongoDB, and AI
+            integrations including OpenAI and open-source LLMs for deep work
+            detection, burnout analysis, and productivity insights. I currently
+            contribute to the platform’s V2 architecture and advanced AI
+            capabilities while mentoring and leading development initiatives.
+          </h4>
+          <h4 className="text-2xl sm:text-4xl text-[#f4e7d4]">
+            I also worked as an SDE-1 at SuperAGI, where I contributed to
+            AI-driven SaaS products and scalable support systems. I led the
+            Support Engineering Pod, built automated communication and follow-up
+            systems, optimized AI conversation pipelines, and developed
+            AI-powered support and knowledge management modules while working
+            across React.js, Vue.js, Go, and Ruby on Rails.
           </h4>
           <h4 className="text-2xl sm:text-4xl text-[#f4e7d4]">
             As a software engineer skilled in React.js, Next.js, Node.js, and

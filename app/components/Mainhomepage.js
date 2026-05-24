@@ -8,7 +8,7 @@ import Homeforth from "./homeForth/Homeforth";
 
 const Mainhomepage = () => {
   return (
-    <div className="space-y-40 sm:space-y-96 overflow-hidden overscroll-none">
+    <div className="space-y-40 sm:space-y-96">
       <Homepage />
       <HomeSecond />
       <Homethird />

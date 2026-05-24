@@ -24,10 +24,49 @@ const Homedetails = () => {
             </h4>
             <div className="space-y-2">
               <h5 className="text-xl sm:text-3xl text-[#f4e7d4] font-bold">
+                Software Engineer Consultant & Lead
+              </h5>
+              <p className="text-sm sm:text-base text-[#f4e7d4] italic font-medium">
+                Muno AI Pvt. Ltd., from February 2026 to Till Date
+              </p>
+              <p className="text-sm sm:text-base text-[#f4e7d4] font-medium">
+                At Muno AI, I worked as a Software Engineer Lead and currently
+                continue as a Consultant, leading the development of MindTraqk,
+                an AI-powered workforce intelligence SaaS platform. From
+                architecture to deployment, I built and scaled the platform
+                using React, Node.js, TypeScript, and MongoDB, integrating
+                OpenAI and open-source LLMs for deep work detection, burnout
+                analysis, and productivity insights. I also led the engineering
+                team and am currently contributing to the development of the
+                platform’s next-generation V2 architecture and AI capabilities.
+              </p>
+            </div>
+            <div className="space-y-2">
+              <h5 className="text-xl sm:text-3xl text-[#f4e7d4] font-bold">
+                SDE - 1
+              </h5>
+              <p className="text-sm sm:text-base text-[#f4e7d4] italic font-medium">
+                SuperAGI, from November 2025 to February 2026
+              </p>
+              <p className="text-sm sm:text-base text-[#f4e7d4] font-medium">
+                At SuperAGI, I worked as an SDE-1, contributing to the
+                development of AI-driven SaaS products and scalable support
+                systems. I led the Support Engineering Pod, resolving 120+
+                technical issues while improving resolution efficiency by 35%. I
+                built an automated email and live chat follow-up system with
+                conversation tracking, optimized the AI agent inbox pipeline,
+                and developed an AI-powered Support Center and Knowledge Base. I
+                contributed across a multi-language stack including React.js,
+                Vue.js, Go, and Ruby on Rails to deliver scalable solutions for
+                thousands of users.
+              </p>
+            </div>
+            <div className="space-y-2">
+              <h5 className="text-xl sm:text-3xl text-[#f4e7d4] font-bold">
                 Software Engineer & Technical Lead
               </h5>
               <p className="text-sm sm:text-base text-[#f4e7d4] italic font-medium">
-                Muno AI Pvt. Ltd., from April 2025 to Till Date
+                Muno AI Pvt. Ltd., from April 2025 to November 2025
               </p>
               <p className="text-sm sm:text-base text-[#f4e7d4] font-medium">
                 At Muno AI Pvt. Ltd., I led and developed MindTraqk, an
@@ -60,7 +99,7 @@ const Homedetails = () => {
                 Full Stack Web Developer
               </h5>
               <p className="text-sm sm:text-base text-[#f4e7d4] italic font-medium">
-                Geetek Global, from September 2023 to December 2023
+                Geetek Global, from June 2023 to December 2023
               </p>
               <p className="text-sm sm:text-base text-[#f4e7d4] font-medium">
                 At Geetek Global, I contributed to the development of Get
@@ -73,10 +112,10 @@ const Homedetails = () => {
             </div>
             <div className="space-y-2">
               <h5 className="text-xl sm:text-3xl text-[#f4e7d4] font-bold">
-                Software Developer
+                Software Developer Intern
               </h5>
               <p className="text-sm sm:text-base text-[#f4e7d4] italic font-medium">
-                Mushroom World FutureTech, from June 2023 to September 2023
+                Mushroom World FutureTech, from March 2023 to May 2023
               </p>
               <p className="text-sm sm:text-base text-[#f4e7d4] font-medium">
                 At Mushroom World Futuretech, during my internship, I worked on
@@ -91,6 +130,17 @@ const Homedetails = () => {
             <h4 className="text-sm sm:text-base font-medium uppercase text-[#f4e7d4]">
               Education
             </h4>
+             <div className="space-y-2">
+              <h5 className="text-xl sm:text-3xl text-[#f4e7d4] font-bold">
+                Masters of Computer Applications
+              </h5>
+              <p className="text-sm sm:text-base text-[#f4e7d4] italic font-medium">
+                Sage University, from October 2025 to May 2027
+              </p>
+              <p className="text-sm sm:text-base text-[#f4e7d4] font-medium">
+                Masters of Computer Applications Degree
+              </p>
+            </div>
             <div className="space-y-2">
               <h5 className="text-xl sm:text-3xl text-[#f4e7d4] font-bold">
                 Bachelors of Computer Applications
